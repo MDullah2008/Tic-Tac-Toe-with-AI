@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723018631 source:c:\users\b2537\onedrive\desktop\tic-tac-toe game with ai\main.cpp
+	<iostream>
+	<vector>
+	<limits>
+
